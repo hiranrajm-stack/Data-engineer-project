@@ -1,0 +1,15 @@
+{
+	"name": "carshirandatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efd3fcef-d70c-4c92-89ec-fb166ec1ba67",
+		"tenantId": "1bd6e62a-1ba3-4361-b4d4-2a577833d8f6"
+	}
+}
